@@ -16,7 +16,7 @@ Após isso, deve-se entrar no _Virtual Environment_ através do código:
 source venv/bin/activate
 ```
 
-Então basta apenas executar a **Calculadora python** com o seguinte código:
+Então basta apenas executar o **Python Grade Management** com o seguinte código:
 ```
 py main.py
 ```
